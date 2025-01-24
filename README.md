@@ -16,7 +16,7 @@
 ## Документация 
 
 1. [Задание дипломного проекта;](https://github.com/netology-code/qamid-diplom)
-2. [План проверки и автоматизации приложения;](https://github.com/sabina7350/Diplom_QA/blob/master/Plan.md)
+2. [План проверки и автоматизации приложения;](https://github.com/sabina7350/Diploma_QA/blob/master/Plan.md)
 3. [Чек-лист проверок;](https://docs.google.com/spreadsheets/d/1ISw0X1pzoSvklOjS0-k6A_5TzVOzj0ggRd5XrC6YNx4/edit?usp=sharing)
 4. [Тест-кейсы;](https://docs.google.com/spreadsheets/d/1p7KYCtpL2XW6OfEE-abfV-Pv3RCNzFpzx7jvjocwGco/edit?usp=sharing)
 5. [Отчет о проведённом тестировании;](https://github.com/sabina7350/Diploma_QA/blob/master/results.md)
